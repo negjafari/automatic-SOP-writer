@@ -38,7 +38,7 @@ The dataset used in this project was obtained from [masters_portal]. This datase
 link to the dataset provided below : 
 [masters_portal.csv.zip](https://github.com/negjafari/automatic-SOP-writer/files/13322143/masters_portal.csv.zip)
 
-### Data Preprocessing
+## Data Preprocessing
 
 Before usage, the dataset undergoes preprocessing to ensure the extraction of relevant keywords. The preprocessing steps include:
 
@@ -46,7 +46,7 @@ Before usage, the dataset undergoes preprocessing to ensure the extraction of re
 2. Handling missing values. (Efforts have been made to address missing values in the dataset, employing tailored methods for each relevant column)
 3. Structuring the data for efficient keyword extraction.
 
-### Usage
+## Usage
 
 The dataset is employed during the text preprocessing phase to extract keywords related to the user's specified university and field of study. These keywords contribute to the generation of personalized motivation letters.
 
