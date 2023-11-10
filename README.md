@@ -43,7 +43,7 @@ link to the dataset provided below :
 Before usage, the dataset undergoes preprocessing to ensure the extraction of relevant keywords. The preprocessing steps include:
 
 1. Cleaning the dataset.
-2. Handling missing values.
+2. Handling missing values. (Efforts have been made to address missing values in the dataset, employing tailored methods for each relevant column)
 3. Structuring the data for efficient keyword extraction.
 
 ### Usage
