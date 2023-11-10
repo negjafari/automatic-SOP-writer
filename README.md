@@ -54,10 +54,10 @@ The dataset is employed during the text preprocessing phase to extract keywords 
 
 This repository includes both Jupyter Notebook and Python script files:
 
-- **`motivation_letter_generator.ipynb`:**
+- **`datamining_proj1_phase1.ipynb`:**
   - Jupyter Notebook file containing the main implementation.
 
-- **`motivation_letter_generator.py`:**
+- **`datamining_proj1_phase1.py`:**
   - Python script file with the same functionality as the Jupyter Notebook.
 
 ## Sample Output
