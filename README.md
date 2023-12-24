@@ -63,3 +63,8 @@ This repository includes both Jupyter Notebook and Python script files:
 ## Sample Output
 
 A sample output, including extracted keywords and a generated SOP, is available in the output directory. You can refer to this example to understand the structure of the output and the effectiveness of the SOP generation process.
+
+## Contact Us
+We're excited to hear from you! If you have questions, suggestions, or need assistance, don't hesitate to get in touch. Feel free to reach out via email at:
+- neg.jaafari@gmail.com
+- mahya.ehsanimehr@gmail.com
